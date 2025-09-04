@@ -79,3 +79,13 @@ Desde la carpeta `src`, compila todos los archivos con:
 
 ```bash
 javac Main.java Menu.java Fibonacci.java SubsetSum.java SudokuSolver.java
+```
+---
+
+## ▶️ Ejecución
+
+- **Para ejecutar el programa**:
+  
+```bash
+java Main
+
