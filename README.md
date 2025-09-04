@@ -75,10 +75,10 @@ Clase que implementa un **solucionador de Sudoku 6x6** mediante **backtracking**
 
 ## ▶️ Compilación  
 
-Desde la carpeta `src`, compila todos los archivos con:  
+ **Para compilar el programa**:  
 
 ```bash
-javac Main.java Menu.java Fibonacci.java SubsetSum.java SudokuSolver.java
+javac *.java
 ```
 ---
 
